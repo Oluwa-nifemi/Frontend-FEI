@@ -10,4 +10,4 @@ You will be required to do the following:
 - Bonus: Make app work while offline (add service worker)
 
 Hosted at 
-https://oluwa-nifemi.github.io/Frontend-FEI/Adeyemi.Oluwanifemi-deyeminifemi/index.html
+https://newswebapp-fei.netlify.com/
